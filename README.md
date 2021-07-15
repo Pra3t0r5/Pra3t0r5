@@ -1,4 +1,4 @@
-[![Pra3t0r5's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pra3t0r5&count_private=true&show_icons=true&theme=slateorange)](https://github.com/Pra3t0r5/github-readme-stats)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Pra3t0r5&count_private=true&show_icons=true&theme=slateorange" />
 <!--
 **Pra3t0r5/Pra3t0r5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
