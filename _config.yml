@@ -70,7 +70,7 @@ content:
         quote: >
           The social network of agriculture.
         description: | # this will include new lines to allow paragraphs
-          Full-Stack development of social media application, based on monorepo-structured crossplatform MERN Stack, featuring both MongoDB and MariaDB connections, and a wide variety of third-party integrations with Google Cloud Services, Firebase (Auth/Messaging/Firestore), Apple Auth, Admob, and much more. Project Management, Team lead, Tech Consultant.
+          Full-Stack development of social media application, based on monorepo-structured crossplatform <mark>MERN+ Stack</mark>, featuring both <mark>MongoDB</mark> and <mark>MariaDB</mark> connections, and a wide variety of third-party integrations with <mark>Google Cloud Services</mark>, <mark>Firebase</mark> (Auth/Messaging/Firestore), <mark>Apple Auth</mark>, <mark>Admob</mark>, and much more. Another of my main roles as of today are Project Management, Team lead, Tech Consultant.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
